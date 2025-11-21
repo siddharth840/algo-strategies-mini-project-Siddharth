@@ -74,7 +74,3 @@ at School of Engineering and Technology, K.R. Mangalam University.
 
 🎉 README COMPLETE
 
-If you want, I can also generate:
-🔹 requirements.txt
-🔹 .gitignore
-🔹 a ZIP of the full project (Notebook + README + structure)
